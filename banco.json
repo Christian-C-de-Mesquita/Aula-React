@@ -1,0 +1,18 @@
+{
+  "produto": [
+    {
+      "id": 1,
+      "produto": "Kit teclado",
+      "valor": "R$200,00",
+      "quantidade": 20,
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoIrtRml4n7zaYMArymQEN5vOVbRcYAKkGww&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "produto": "Notebook Dell",
+      "valor": "R$2.500,00",
+      "quantidade": 11,
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoIrtRml4n7zaYMArymQEN5vOVbRcYAKkGww&usqp=CAU"
+    }
+  ]
+}
